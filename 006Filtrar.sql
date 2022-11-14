@@ -1,0 +1,1 @@
+SELECT * FROM personas ORDER BY apellidos

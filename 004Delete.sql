@@ -1,0 +1,1 @@
+DELETE FROM personas where apellidos="lopez"
