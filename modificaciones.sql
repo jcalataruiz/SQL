@@ -1,4 +1,1 @@
-SELECT sum(importe) AS gasto, empresa FROM facturas
-GROUP BY empresa HAVING gasto>1700
-
-/*La clausula having filtra las columnas de las agrupaciones
+SELECT personita.nombre as niño, regalo.descripcion as regalo FROM personita RIGHT JOIN regalo ON personita.nombre=regalo.personita_nombre

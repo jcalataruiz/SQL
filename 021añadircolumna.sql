@@ -1,0 +1,1 @@
+ALTER table facturas add column fecha date;

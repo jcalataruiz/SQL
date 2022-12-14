@@ -1,0 +1,1 @@
+SELECT DAY(fecha) ,MONTH(fecha), YEAR(fecha) FROM facturas

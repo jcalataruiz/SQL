@@ -1,0 +1,1 @@
+SELECT date_format(fecha, "%e-%M-%Y  %h:%i") from facturas"

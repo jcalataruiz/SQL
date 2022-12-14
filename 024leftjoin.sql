@@ -1,0 +1,1 @@
+SELECT personita.nombre as niño, regalo.descripcion as regalo FROM personita LEFT JOIN regalo ON personita.nombre=regalo.personita_nombre
